@@ -30,7 +30,7 @@
     host.dataset.eWidgetLoaded = "true";
 
     var id = `ew-${Math.random().toString(36).slice(2)}`;
-    var src = "https://pr8zd6.csb.app/public/widget.html";
+    var src = "https://pr8zd6.csb.app/docs/widget.html";
 
     var params = paramsFromHost(host);
     params.set("ewid", id);
