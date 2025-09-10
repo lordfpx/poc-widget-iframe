@@ -30,7 +30,7 @@
     host.dataset.eWidgetLoaded = "true";
 
     var id = `ew-${Math.random().toString(36).slice(2)}`;
-    var src = "https://pr8zd6.csb.app/docs/index.html";
+    var src = "https://lordfpx.github.io/poc-widget-iframe/";
 
     var params = paramsFromHost(host);
     params.set("ewid", id);
